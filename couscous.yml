@@ -1,1 +1,7 @@
 baseUrl: http://mjerwin.github.io/docs-test
+
+menu:
+    items:
+        getting_started:
+            text: Getting Started
+            url: doc/getting-started.html
